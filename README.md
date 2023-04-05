@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Prisma and JSON**
 
-- 🎓 I`m studing Infomation Systems at <a  style="color: #e4289e; font-weight: 800" href="https://portal.cin.ufpe.br">CIN</a>
+- 🎓 I`m studing Information Systems at <a  style="color: #e4289e; font-weight: 800" href="https://portal.cin.ufpe.br">CIN</a>
 
 - 💬 Ask me about **JavaScript, CSS and C#**
 
