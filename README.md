@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤙, I'm Pedro Novaes</h1>
 <h3 align="center">A pilgrim in search of more knowledge</h3>
 
-- 🌱 I’m currently learning **React, Typescript, Prisma and JSON**
+- 🌱 I’m currently learning **Next, Typescript, Prisma and Postgress**
 
 - 🎓 I`m studing Information Systems at <a  style="color: #e4289e; font-weight: 800" href="https://portal.cin.ufpe.br">CIN</a>
 
