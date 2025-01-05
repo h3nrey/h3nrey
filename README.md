@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🤙, I'm Pedro Novaes</h1>
 <h3 align="center">A pilgrim in search of more knowledge</h3>
 
-- 🌱 I’m currently learning **Next, Typescript, Prisma and Postgress**
+- 🌱 I’m currently learning **FastAPI**
 
 - 🎓 I`m studing Information Systems at <a  style="color: #e4289e; font-weight: 800" href="https://portal.cin.ufpe.br">CIN</a>
 
-- 💬 Ask me about **JavaScript, CSS and C#**
+- 💬 Ask me about **Angular, Laravel and Docker**
 
 - 🤔 Fun fact **I enjoy ghibli movies, quite a lot**
 
